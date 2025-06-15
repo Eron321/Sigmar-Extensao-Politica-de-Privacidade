@@ -6,7 +6,7 @@ A sua privacidade é importante para nós. Esta Política de Privacidade descrev
 
 ## 1. Coleta de Informações
 
-A única informação pessoal coletada pela extensão Sigmar é o **endereço de e-mail** do usuário.
+A única informação pessoal coletada pela extensão Bot Fantasma é o **endereço de e-mail** do usuário.
 
 Essa coleta é realizada **exclusivamente** com o objetivo de identificar usuários únicos, garantindo a individualidade de cada conta e permitindo a personalização dos serviços oferecidos.
 
@@ -21,7 +21,7 @@ O endereço de e-mail fornecido é utilizado apenas para:
 ## 3. Compartilhamento de Informações
 
 **Nenhuma informação pessoal será vendida, compartilhada ou divulgada a terceiros.**  
-A Sigmar se compromete a proteger a privacidade de seus usuários e a manter suas informações seguras.
+A Bot Fantasma se compromete a proteger a privacidade de seus usuários e a manter suas informações seguras.
 
 ## 4. Segurança
 
