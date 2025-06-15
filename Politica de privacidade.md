@@ -1,8 +1,8 @@
-# Política de Privacidade – Extensão Sigmar
+# Política de Privacidade – Extensão Bot Fantasma
 
 *Atualizado em: 15 de junho de 2025*
 
-A sua privacidade é importante para nós. Esta Política de Privacidade descreve como a extensão **Sigmar** coleta, utiliza e protege as informações fornecidas pelos usuários.
+A sua privacidade é importante para nós. Esta Política de Privacidade descreve como a extensão **Bot Fantasma** coleta, utiliza e protege as informações fornecidas pelos usuários.
 
 ## 1. Coleta de Informações
 
